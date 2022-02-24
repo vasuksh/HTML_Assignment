@@ -1,0 +1,19 @@
+.box {
+  width: 600px;
+  height: 200px;
+  background-color: rgba(248, 248, 248, 0.377);
+  display: flex;
+  border: solid 1px;
+}
+
+.box2 {
+  width: 200px;
+  height: 150px;
+  margin: 25px 25px 25px 25px;
+  border: solid 2px;
+}
+
+.box3 {
+  margin-left: 1%;
+  font-size: 17px;
+}
